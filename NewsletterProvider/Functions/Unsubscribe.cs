@@ -45,4 +45,3 @@ namespace NewsletterProvider.Functions
         }
     }
 }
-}
